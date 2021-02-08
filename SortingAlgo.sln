@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgo", "SortingAlgo.csproj", "{8DF288B3-B8D5-4140-9FAC-8046E36FA898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DF288B3-B8D5-4140-9FAC-8046E36FA898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF288B3-B8D5-4140-9FAC-8046E36FA898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF288B3-B8D5-4140-9FAC-8046E36FA898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF288B3-B8D5-4140-9FAC-8046E36FA898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D2D1392-6BD4-4404-8CC7-4410D69821B1}
+	EndGlobalSection
+EndGlobal
